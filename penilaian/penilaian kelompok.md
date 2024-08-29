@@ -8,4 +8,4 @@
 | 3   | RIVALDO GABRIEL  | 3              | Membuat halaman soal & jawaban, kotak tic tac toe          |
 | 4   | VALENTINO        | 3              | Menyediakan rumah, dan mengerjakan halaman soal            |
 | 5   | IQBAL            | 3              | Effort walau jauh rumahnya, Menghyperlink soal dan jawaban |
-| 6   | MUHAMMAD ARIEL   | 3              | mengerjakan sebagian ppt                                   |
+| 6   | MUHAMMAD ARIEL   | 2              | mengerjakan sebagian ppt                                   |
